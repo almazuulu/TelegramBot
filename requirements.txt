@@ -9,7 +9,6 @@ cryptography==2.6.1
 decorator==4.4.2
 enum34==1.1.6
 future==0.17.1
-futures==3.3.0
 idna==2.8
 ipaddress==1.0.22
 macholib==1.5.1
